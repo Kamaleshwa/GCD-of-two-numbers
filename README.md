@@ -1,4 +1,4 @@
-![image](https://github.com/Kamaleshwa/GCD-of-two-numbers/assets/144980199/879888e9-c5ff-4a97-801f-beb5a1c05b16)# Find the GCD of two numbers
+
 
 ## AIM:
 To write a program to find the GCD of two numbers using function.
